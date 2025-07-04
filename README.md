@@ -1,5 +1,2 @@
-## Hi there 👋
-
-<!--
-**sofilyshop/sofilyshop**
+**sofilyshop/sofilyshop
 self aqeel ahmad
